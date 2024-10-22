@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mthaba</h1>
-<h3 align="center">A creative data scientist from Sudan</h3>
+<h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **mthabadood@gmail.com**
 
